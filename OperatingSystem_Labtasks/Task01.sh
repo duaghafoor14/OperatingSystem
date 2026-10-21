@@ -28,4 +28,5 @@ cat ownerdir/data.txt
 ls -l report.txt
 ls -ld OwnerDirectory
 ls -l OwnerDirectory
+sudo -n id
 
